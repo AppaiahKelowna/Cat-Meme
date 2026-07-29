@@ -2,13 +2,13 @@ export const catsData = [
     {
         emotionTags: ["moody"],
         isGif: false,
-        image: "/public/images/angry.jpeg",
+        image: "/images/angry.jpeg",
         alt: "A cat looking moody",
     },
     {
         emotionTags: ["moody", "insomniac"],
         isGif: false,
-        image: "./public/images/angry2.jpeg",
+        image: "/images/angry2.jpeg",
         alt: "A cat looking moody",
     },
     {
